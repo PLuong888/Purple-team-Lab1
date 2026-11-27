@@ -1,0 +1,18 @@
+# Local and sensitive working materials
+*.log
+*.bak
+*.tmp
+*.swp
+~$*.docx
+*.vdi
+*.vmdk
+*.ova
+*.pcap
+*.pcapng
+.env
+.env.*
+secrets/
+private-evidence/
+source-pdf-pages/
+*password*.txt
+*shadow*.txt
